@@ -1,0 +1,15 @@
+D:\Mercado\Persistence\bin\Debug\net7.0\Persistence.deps.json
+D:\Mercado\Persistence\bin\Debug\net7.0\Persistence.dll
+D:\Mercado\Persistence\bin\Debug\net7.0\Persistence.pdb
+D:\Mercado\Persistence\bin\Debug\net7.0\Domain.dll
+D:\Mercado\Persistence\bin\Debug\net7.0\Domain.pdb
+D:\Mercado\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+D:\Mercado\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mercado\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+D:\Mercado\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+D:\Mercado\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Mercado\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+D:\Mercado\Persistence\obj\Debug\net7.0\Persistence.dll
+D:\Mercado\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+D:\Mercado\Persistence\obj\Debug\net7.0\Persistence.pdb
+D:\Mercado\Persistence\obj\Debug\net7.0\ref\Persistence.dll
